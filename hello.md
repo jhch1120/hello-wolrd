@@ -69,3 +69,8 @@ git과 githyb 공부용 저장소
 
 - http://inflearn.com
 - Music : https://www.bensound.com
+
+## revert
+
+- revert로 여러 커밋을 되돌리려면 최신부터 순서대로 revert 하자
+- 그렇게 하면 충돌을 막을 수 있다.
