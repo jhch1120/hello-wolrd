@@ -56,3 +56,16 @@
 - 역시 커밋은 없어지지 않는다.
 - 장점 : 쉽다.
 - 단점 : 충돌이 날 수 있다.
+
+# Easy Git & Github
+
+git과 githyb 공부용 저장소
+
+## 전체 강좌 목록 보기
+
+- https://nextstep.camp/courses/-L6-ES5-WFWp9mKmOhE-
+
+## Special Thanks
+
+- http://inflearn.com
+- Music : https://www.bensound.com
